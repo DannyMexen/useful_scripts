@@ -1,4 +1,5 @@
-#!/usr/bin/zsh
+# Run `which zsh` to get the path for the shebang
+#!/bin/zsh
 
 # CODE_DIR_QD - Quick and Dirty
 # Smaller scoped version of code_dir
