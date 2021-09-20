@@ -1,7 +1,6 @@
 #!/bin/zsh
 
-# CODE_DIR_QD - Quick and Dirty
-# Smaller scoped version of code_dir
+# CODE_DIRS 
 # Create Code/* directories for storing source files
 # - Learning
 # - Development
@@ -9,10 +8,10 @@
 # - Experimental
 # - Prototypes
 # - Boilerplate
-# Daniel M. Mwale
-# mwaled@napsa.co.zm
+# Danny Mexen
+# danny@arcariusmexen.com
 # 2021-09-20
-# Version 1.0.2
+# Version 1.0.3
 
 # Steps
 # Change directory to $HOME
