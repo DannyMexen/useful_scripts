@@ -21,7 +21,7 @@
 # (where * represents the directories listed above)
 
 code_root=$HOME/Code
-code_directories=('bare' 'testt' 'env' 'bin' 'dev' 'prod')
+code_directories=('bare' 'test' 'env' 'bin' 'dev' 'prod')
 
 # Step 1 - Change directory to $HOME
 change_directory() {
