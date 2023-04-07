@@ -2,16 +2,16 @@
 
 # CODE_DIRS 
 # Create Code/* directories for storing source files
-# - Learning
-# - Development
-# - Testing
-# - Experimental
-# - Prototypes
-# - Boilerplate
+# - bare (bare repos for active development)
+# - test (testing and experimenting)
+# - env (variables and virtual environments)
+# - bin (scripts)
+# - dev (active development and prototypes)
+# - prod (release candidates and deployed packages)
 # Danny Mexen
 # danny@arcariusmexen.com
-# 2021-09-20
-# Version 1.0.3
+# 2023-04-07
+# Version 1.0.4
 
 # Steps
 # Change directory to $HOME
@@ -21,7 +21,7 @@
 # (where * represents the directories listed above)
 
 code_root=$HOME/Code
-code_directories=('Learning' 'Development' 'Testing' 'Experimental' 'Prototypes' 'Boilerplate')
+code_directories=('bare' 'testt' 'env' 'bin' 'dev' 'prod')
 
 # Step 1 - Change directory to $HOME
 change_directory() {
